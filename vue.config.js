@@ -13,11 +13,7 @@ module.exports = {
                 'css': resolve('src/assets/css'),
                 'images': resolve('src/assets/images'),
                 'views': resolve('src/views'),
-                'components': resolve('src/components'),
-                'api': resolve('src/api'),
-                'mixins': resolve('src/mixins'),
-                'store': resolve('src/store'),
-                'service': resolve('src/service'),
+                'utils': resolve('src/utils'),
             }
         },
         plugins: [
